@@ -1,4 +1,2 @@
 #!/bin/bash
- for i in "$alx-system_engineering-devops"/* do echo " $i " done
-#!/bin/bash
 ls
